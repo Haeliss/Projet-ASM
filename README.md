@@ -26,4 +26,4 @@ Projet de DUT Informatique (2016/2017)
 
 #### Auteurs du projet
 * DEMMER Lisa-Marie
-* NAOLITANO Arnaud
+* NAPOLITANO Arnaud
